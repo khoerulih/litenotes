@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LiteNotes</string>
+    <string name="date">12/12/2021</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Delete</string>
+</resources>
